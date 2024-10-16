@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\Employee\Add\" />
     <Folder Include="Features\Employee\Get\" />
     <Folder Include="Repository\" />
   </ItemGroup>
