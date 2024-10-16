@@ -1,4 +1,7 @@
 
+using WebApplication1.Extensions;
+using Application;
+using Persistence;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
